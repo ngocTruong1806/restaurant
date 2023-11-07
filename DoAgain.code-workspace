@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../DoAgain"
+		},
+		{
+			"path": "../Grocery Store"
+		},
+		{
+			"path": "../FoodAndRestaurant"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "FoodAndRestaurant"
+	}
+}
